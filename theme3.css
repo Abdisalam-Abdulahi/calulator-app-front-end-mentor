@@ -1,0 +1,53 @@
+body {
+  background: hsl(268, 75%, 9%);
+}
+.small_box {
+  background: hsl(268, 71%, 12%);
+}
+.big_box {
+  background: hsl(268, 71%, 12%);
+}
+.big_box :nth-of-type(16) {
+  background: hsl(281, 89%, 26%);
+  border: none;
+  box-shadow: 1px 3px 0px hsl(285, 91%, 52%);
+}
+.big_box :nth-of-type(17) {
+  background: hsl(281, 89%, 26%);
+  border: none;
+  box-shadow: 1px 3px 0px hsl(285, 91%, 52%);
+}
+.big_box :nth-of-type(18) {
+  background: hsl(176, 100%, 44%);
+  color: black;
+  border: none;
+  box-shadow: 1px 3px 0px hsl(177, 92%, 70%);
+}
+.items_button {
+  background: hsl(268, 47%, 21%);
+  border: none;
+  box-shadow: 1px 3px 0px hsl(290, 70%, 36%);
+  color: hsl(52, 100%, 62%);
+  font-weight: bold;
+}
+.items_button:hover{
+    background: hsl(285, 91%, 52%);
+}
+.numbers{
+    color: hsl(52, 100%, 62%);
+}
+.cal_theme{
+    color: hsl(52, 100%, 62%);
+}
+.calc{
+    font-weight: bold;
+}
+.upper{
+     color: hsl(52, 100%, 62%);
+}
+.lower{
+     color: hsl(52, 100%, 62%);
+}
+.span_theme3{
+  color: hsl(52, 100%, 62%);
+}

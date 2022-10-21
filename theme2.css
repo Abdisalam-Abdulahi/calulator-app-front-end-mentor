@@ -1,0 +1,36 @@
+body{
+    background: hsl(0, 0%, 90%);
+}
+.small_box{
+   background: hsl(0, 0%, 93%);
+}
+.big_box{
+    background: hsl(0, 5%, 81%);
+}
+.items_button{
+    font-weight: bold;
+}
+.big_box :nth-of-type(16){
+    background: hsl(185, 42%, 37%);
+}
+.big_box :nth-of-type(17){
+    background: hsl(185, 42%, 37%);
+}
+.big_box :nth-of-type(18){
+    background: hsl(25, 98%, 40%);
+}
+.numbers{
+    color: black;
+}
+.cal_theme{
+    color: black;
+}
+.calc{
+    font-weight: bold;
+}
+.upper{
+    color: black;
+}
+.lower{
+    color: black;
+}
